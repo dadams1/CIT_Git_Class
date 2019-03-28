@@ -8,7 +8,7 @@ people = [
 ]
 
 for person in people:
-    print("Hello, " + person + "!")
+    print("Goodbye, " + person + "!")
 
 print("That's all for now!")
 
