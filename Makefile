@@ -1,0 +1,2 @@
+resuts:
+	./script.py > $@
